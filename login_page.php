@@ -2,6 +2,7 @@
 
 require("./connect/connect.php");
 require("login.php");
+$showError = false;
 
 ?>
 
